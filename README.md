@@ -1,2 +1,2 @@
 Attention:
-marche uniquement sur iphone
+Très gros risque de non compatibilité Android, prioriser un essai sur iPhone
